@@ -1,4 +1,4 @@
-
+>THIS IS FOR NOW JUST COPY AND PASTE MISSION FROM WSV WARLORDS I DON'T KNOW WHAT I AM DOING
 # Warlords Redux 2.2
 Warlords Redux 2.2 is a community upgrade project for the Original Warlords Redux. 
 
